@@ -1,0 +1,13 @@
+body
+{
+	background: #f5f5dc;
+}
+
+.main
+{
+	background: #fff;
+	width: 80%;
+	margin: auto;
+	padding: 2em;
+	text-align: center;
+}
